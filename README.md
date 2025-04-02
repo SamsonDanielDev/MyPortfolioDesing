@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Resultado: 
-![{9A53E622-A2A5-4D5A-9E8C-258BF6E465BE}](https://github.com/user-attachments/assets/aa139ae2-59b5-4baf-ad79-6652ff02108b)
-
+![{AF750CF8-6330-4EEA-81C8-32D0803AE222}](https://github.com/user-attachments/assets/48946fb7-7640-45c5-ab00-e8a2fb449c35)
 
 </i>
