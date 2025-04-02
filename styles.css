@@ -1,19 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,regular,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic);
+@import url(https://fonts.googleapis.com/css?family=Lora:regular,500,600,700,italic,500italic,600italic,700italic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,regular,italic,500,500italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700);
 
 * {
   margin: 0;
   padding: 0;
-  font-family: MontSerrat, monospace;
+  font-family: MontSerrat;
   box-sizing: border-box;
 }
 
 body {
   color: #ffffff;
-  background-image: url("./Wallpapers.jpg");
   background-size: cover;
   background-position: center;
+  background-color: #2661ce;
 }
 
 .HomeScreen {
@@ -21,6 +23,8 @@ body {
   align-items: center;
   height: 100vh;
   padding: 10%;
+
+  margin-left: 500px;
 }
 
 .Conteúdo-Home {
@@ -28,7 +32,7 @@ body {
 }
 
 .Conteúdo-Home h1 {
-  color: #d6e4c3;
+  color: #e0e0e0;
   font-size: 57px;
   font-weight: 900;
 }
@@ -36,12 +40,12 @@ body {
 .Conteúdo-Home h4 {
   font-size: 34px;
   font-weight: 600;
-  color: #c2b291;
+  color: #e0e0e0;
 }
 
 .Conteúdo-Home p {
   font-size: 16px;
-  font-family: monospace;
+  font-family: Fira Code;
   margin: 20px 0 40px;
 }
 
@@ -52,49 +56,16 @@ body {
   justify-content: space-between;
 }
 
-.button-box a {
+.home-sci a {
   display: inline-flex;
+  height: 60px;
+  width: 60px;
+  margin-left: 20px;
   justify-content: center;
   align-items: center;
-  width: 140px;
-  height: 100%;
-  background: #87837b;
-  border: 3px solid #87837b;
-  border-radius: 3px;
-  color: #63594d;
-  text-decoration: none;
-  font-weight: 600;
-  letter-spacing: 1px;
-  z-index: 1;
-  font-family:Ubuntu;
-}
-
-.home-sci{
-    position: absolute;
-    bottom: 40px;
-    width: 170px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.home-sci a {
-    position: relative;
-    display: inline-flex;
-    width: 40px;
-    justify-content: center;
-    align-items: center;
-    height: 40px;
-    background: transparent;
-    border: 2px solid #927575;
-    border-radius: 50%;
-    font-size: 14px;
-    color: #ffffff;
-    text-decoration: none;
-}
-
-.home-sci a :hover{
-    color: #ca985b;
-    transition: .6s;
+  border-radius: 5px;  
+  border: 2px solid rgba(78, 91, 102, 0.411);
+  background-color: rgb(150, 199, 221);
 }
 
 .button-box a:nth-child(2) {
@@ -104,7 +75,7 @@ body {
 
 .button-box a:hover {
   color: #d6e4c3;
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .header {
