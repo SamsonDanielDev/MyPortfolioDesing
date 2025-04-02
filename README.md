@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Resultado: 
+![{9A53E622-A2A5-4D5A-9E8C-258BF6E465BE}](https://github.com/user-attachments/assets/aa139ae2-59b5-4baf-ad79-6652ff02108b)
 
-![FilePrint](https://github.com/DanielProgrammer64/MyPortfolioDesing/assets/103775773/c03fade2-8cf6-441f-8449-25bf0098e982)
 
 </i>
