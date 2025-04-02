@@ -15,7 +15,7 @@ body {
   color: #ffffff;
   background-size: cover;
   background-position: center;
-  background-color: #2661ce;
+  background-image: url("image.png");
 }
 
 .HomeScreen {
